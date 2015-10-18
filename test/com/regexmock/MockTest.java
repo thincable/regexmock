@@ -4,7 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 /**
- * Created by fvf on 18.10.15.
+ * Created by Victor Fedorov on 18.10.15.
  */
 public class MockTest {
 

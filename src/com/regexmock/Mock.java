@@ -1,7 +1,7 @@
 package com.regexmock;
 
 /**
- * Created by fvf on 18.10.15.
+ * Created by Victor Fedorov on 18.10.15.
  */
 public class Mock {
 
