@@ -13,7 +13,7 @@ public class Character extends AbstractNode {
 
     @Override
     public String generate() {
-        return null;
+        return String.valueOf(character);
     }
 
     @Override
